@@ -9,4 +9,4 @@
   -  Used to explain how to setup `DriversTest.kt` UI test and what it was missing.
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
